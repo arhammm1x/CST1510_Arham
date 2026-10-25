@@ -1,0 +1,3 @@
+Hello, Everyone
+I am a new student.
+This is my new file.
